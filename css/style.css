@@ -30,7 +30,7 @@ nav {
 }
 
 .status-bar {
-  background-image: url('/images/uistatusbar.png');
+  background-image: url(../images/uistatusbar.png);
   background-size: cover;
   height: 20px;
   width: 375px;
@@ -124,7 +124,7 @@ h3 {
 }
 
 .map-image {
-  background-image: url('/images/busybusmap2.png');
+  background-image: url(../images/busybusmap2.png);
   background-size: contain;
 }
 
